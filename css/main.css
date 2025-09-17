@@ -1,0 +1,25 @@
+/* home.html styles */
+.container-fluid-custom {
+  background: rgb(61, 138, 119);
+  background: linear-gradient(
+    90deg,
+    rgba(61, 138, 119, 1) 0%,
+    rgba(110, 189, 169, 1) 50%,
+    rgba(61, 138, 119, 1) 100%
+  );
+  background-attachment: fixed;
+  min-height: 100vh;
+}
+.h1-custom,
+main {
+  display: none;
+}
+a .icon-custom {
+  color: #212529;
+  background-color: #ffdeab;
+  padding: 6px;
+  border-radius: 50%;
+}
+.menu-img {
+  max-width: 90px;
+}
