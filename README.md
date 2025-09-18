@@ -18,7 +18,7 @@ the purpose of this project is to show a responsive digital menu.
 https://github.com/lovmehr/Oxab-cafe.git
 
 -demo ver
-
+https://lovmehr.github.io/Oxab-cafe/
 
 
 <img width="2704" height="1454" alt="5f4d74d4-1372-48ac-af92-b4c2d046d24c" src="https://github.com/user-attachments/assets/ef3beffb-ff4b-4100-b102-61bfa0e2d35c" />
