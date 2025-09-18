@@ -37,7 +37,7 @@ body,
   font-family: "Mahoor";
   scroll-behavior: smooth;
   box-sizing: border-box;
-  scrollbar-color: color-mix(in oklch, currentColor 35%, #a1782b) transparent;
+  scrollbar-color: color-mix(in oklch, currentColor 35%, #a1782b) transparent !important;
 }
 a {
   text-decoration: none !important;
@@ -275,4 +275,5 @@ footer .nav-link {
     rgba(242, 211, 160, 1) 100%
   );
 }
+
 
